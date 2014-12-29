@@ -1,0 +1,27 @@
+﻿/* site.css */
+html {
+    background-color: white;
+    border: 0;
+    color: #000000;
+    font-family: Segoe UI, Arial, Helvetica, sans-serif;
+}
+header{
+}
+body{
+    
+    font-size: 14px;
+}
+footer{
+    background-color: lightgray;
+    width: 450px;
+    margin: 12px 0px;
+    padding: 9px;
+    font-size: 14px;
+}
+#note {
+    background-color: darkblue;
+    color: white;
+    margin: 5px 0px;
+    padding: 5px;
+    width: auto;
+}
